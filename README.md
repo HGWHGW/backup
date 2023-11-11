@@ -1,2 +1,2 @@
 # backup
-文稿/项目备份
+A collection of codes and notes.
